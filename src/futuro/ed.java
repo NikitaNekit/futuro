@@ -1,6 +1,6 @@
 package futuro;
 public class ed{
-
+//Myktya Ryasny
 public static void main(String[]args){
     System.out.println("Estudiate " + args[0] + ": " + veredicto(args[1], args[2]));
         }
